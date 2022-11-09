@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with Python programming
 - 📫 How to reach me: through my email or linkedin 
 
+![]([https://bit.ly/3Ej6g0n])
