@@ -9,4 +9,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgcp3&show_icons=true&theme=radical) 
 
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dgcp3&color=lightgrey" alt="watching_count" />
+</p>
