@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with Python programming
 - 📫 How to reach me: through my email or linkedin 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgcp3&show_icons=true&theme=transparent)
 ![]([https://bit.ly/3Ej6g0n])
