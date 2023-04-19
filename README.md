@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Leetcode
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning the cloud
 - 👯 I’m looking to collaborate on anything javascript
 - 🤔 I’m looking for help with Python programming
 - 📫 How to reach me: through my email or linkedin 
